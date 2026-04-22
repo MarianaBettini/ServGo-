@@ -28,7 +28,7 @@ Paralelos importantes entre as estruturas aprendidas em **C** e a sintaxe do **P
 3. **Match/Case vs. Switch/Case:** Ambas lidam com múltiplas escolhas de forma limpa. O `match/case` do Python 3.10 permite comparar padrões estruturais complexos, indo além do `switch` básico do C.
 
 ## 🤖 O Que Achamos Mais Desafiador Na Transição Para o Python?
-
+Dentre os vários desafios encontrados em cada etapa o mais desafiador foi o estilo de código, aderir a simplicidade do Python, utilizando estruturas de dados nativas como dicionários e listas, em vez de implementar estruturas complexas manualmente.
 
 ## 🛠️ Como Executar
 1. Certifique-se de ter o Python 3.10 ou superior instalado.
